@@ -1,6 +1,7 @@
 ## Space Invaders
 # Cài đặt 
   - Tải mingw trên https://www.mingw-w64.org
+  - Tải clone github và mở cmd.
   - gõ main.exe
 # Cách chơi
   - Dùng mũi tên để di chuyển
